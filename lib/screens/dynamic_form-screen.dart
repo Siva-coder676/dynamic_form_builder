@@ -1,5 +1,3 @@
-
-
 import 'package:dynamic_form_builder/providers/form_provider.dart';
 import 'package:dynamic_form_builder/screens/widgets/dynamic_form.dart';
 import 'package:dynamic_form_builder/screens/widgets/json_editor.dart';
