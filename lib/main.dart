@@ -1,4 +1,4 @@
-import 'package:dynamic_form_builder/screens/dynamic_form-screen.dart';
+import 'package:dynamic_form_builder/screens/dynamic_form_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
